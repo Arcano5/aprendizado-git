@@ -1,3 +1,10 @@
-"1. **Mensagens de commit claras**: Use mensagens descritivas no padrão 'tipo: descrição' (ex: feat: adiciona funcionalidade X)"
-"2. **Organização de branches**: Utilize nomes descritivos como feature/, bugfix/, hotfix/ para identificar o propósito"
-"3. **Commits atômicos**: Faça commits pequenos e focados em uma única mudança por vez"
+# Boas Práticas Git e GitHub
+
+## 1. Mensagens de commit claras
+Utilize mensagens descritivas e padronizadas. Exemplo: feat: adiciona funcionalidade X, fix: corrige bug Y, docs: atualiza documentação.
+
+## 2. Organização de branches
+Utilize nomes descritivos para branches como: feature/nova-funcionalidade, bugfix/correcao-bug, hotfix/ajuste-urgente. Isso facilita o entendimento do propósito de cada branch.
+
+## 3. Commits atômicos
+Faça commits pequenos e focados em uma única mudança por vez. Isso facilita revisões, identificação de problemas e possíveis reversões.
